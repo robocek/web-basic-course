@@ -3,6 +3,9 @@
 **TASK-1 : PROFILE CARD**
 
 
+**DEADLINE : 03/04/2021**
+
+
 **1.Download the starter files of Task 1.
 The file itself contains the informations to complete the task,such as the desktop view,mobile view,font size,font color etc**
 
@@ -13,6 +16,7 @@ The file itself contains the informations to complete the task,such as the deskt
     
     
    **2.https://youtu.be/jx5jmI0UlXU**
+   
    
    
   **Good Luck Guys!!!**
